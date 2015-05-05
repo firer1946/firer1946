@@ -1,0 +1,3 @@
+pyton core code
+django by python
+lean python the hard wayfd

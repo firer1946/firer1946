@@ -1,0 +1,6 @@
+#coding:utf-8
+string = raw_input("Please input 2 pre-letters \n")
+a = ord(string[0]) + ord(string[1])
+print a #din eav gtbp
+input()
+
